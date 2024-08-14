@@ -1,6 +1,6 @@
 ## Objectives
-- Learn the basics of Python and its data manipulation packages, such as Pandas and NumPy.
-- Get familiar with visualization libraries, including Matplotlib, Seaborn and Plotly.
+- Learn the basics of Python and its data manipulation packages, such as Pandas and NumPy
+- Get familiar with visualization libraries, including Matplotlib, Seaborn and Plotly
 
 ## Data Source
 `turing_data_analytics.rfm`
