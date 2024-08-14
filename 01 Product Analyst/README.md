@@ -2,9 +2,9 @@
 
 
 ## Objectives
-- Understand the role of a product analyst.
-- Learn key concepts and definitions required for the product analyst role.
-- Perform hands-on exercises with real data and solve life-like problems typical for product analysts.
+- Understand the role of a product analyst
+- Learn key concepts and definitions required for the product analyst role
+- Perform hands-on exercises with real data and solve life-like problems typical for product analysts
 
 ## Data Source
 `turing_data_analytics.raw_events`
