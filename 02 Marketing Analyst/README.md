@@ -2,7 +2,6 @@
 
 
 ## Objectives
-
 - Understand the role of a marketing analyst.
 - Learn key concepts and definitions required for the marketing analyst role.
 - Perform hands-on exercises with real data and solve life-like problems typical for marketing analysts.
