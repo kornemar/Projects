@@ -1,10 +1,10 @@
 > **Customer Lifetime Value (CLV)** predicts how much revenue (or profit) you can expect from a single customer using models like Predictive CLV or Historical CLV. CLV not only provides additional insights into your business and customers but also helps determine how much you can afford to spend on acquiring customers. This technique is crucial for sales and marketing analysis, as well as for the overall business strategy. With an accurate CLV measurement, you can track it over time to understand how changes, strategies, or other factors impact CLV and whether you can grow it.
 
 ## Objectives
-- Learn basic terms used in CLV modeling.
-- Understand the benefits of calculating CLV and how this technique can improve your business.
-- Learn how to use cohorts in CLV modeling.
-- Learn how to predict customers’ CLV.
+- Learn basic terms used in CLV modeling
+- Understand the benefits of calculating CLV and how this technique can improve your business
+- Learn how to use cohorts in CLV modeling
+- Learn how to predict customers’ CLV
 
  
 ## Data Source
