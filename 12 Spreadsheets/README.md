@@ -16,4 +16,4 @@ Populate the 'Overview' sheet with analytical insight using a structured approac
 6. Top sales reasons
 
 ## Result
-to download the Excel file
+[Excel file](https://github.com/kornemar/Projects/blob/main/12%20Spreadsheets/mkorne-IDA2.2%20S2%20R2.xlsx)
