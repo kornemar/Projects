@@ -8,14 +8,11 @@
 - Learn about retention/churn analysis, including different types and when to use each. Gain hands-on experience conducting retention/churn analysis using spreadsheets and SQL
 
 ## Data Source
-`turing_data_analytics.subscriptions`
+BigQuery `turing_data_analytics.subscriptions`
 
 ## Task
 
 Analyze weekly subscription data to determine how many subscribers started their subscriptions in a particular week and how many remained active over the following six weeks. The final result should display weekly retention cohorts, showing retention from week 0 to week 6 for each week in the dataset.
 
 ## Result
-
-Add SQL file  
-
-[Google Sheets](https://docs.google.com/spreadsheets/d/10wNPVGrrLjut911UMVo3CuD4bLdumWizypyo0nrE4TE/edit?usp=sharing)
+[Cohort Analysis](https://docs.google.com/spreadsheets/d/10wNPVGrrLjut911UMVo3CuD4bLdumWizypyo0nrE4TE/edit?usp=sharing) in Google Sheets
