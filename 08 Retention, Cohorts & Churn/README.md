@@ -16,4 +16,4 @@ Analyze weekly subscription data to determine how many subscribers started their
 
 ## Result
 - [Cohort Analysis](https://docs.google.com/spreadsheets/d/10wNPVGrrLjut911UMVo3CuD4bLdumWizypyo0nrE4TE/edit?usp=sharing) in Google Sheets
-- [SQL](https://github.com/kornemar/Projects/blob/main/08%20Retention%2C%20Cohorts%20%26%20Churn/Cohort%20Analysis.sql)
+- [SQL query](https://github.com/kornemar/Projects/blob/main/08%20Retention%2C%20Cohorts%20%26%20Churn/Cohort%20Analysis.sql)
