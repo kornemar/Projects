@@ -8,7 +8,7 @@
 - Learn what insights can be drawn from funnel analysis and practice performing funnel analysis in Google Sheets
 
 ## Data Source
-`turing_data_analytics.raw_events`
+BigQuery `turing_data_analytics.raw_events`
 
 ## Task
 
@@ -18,7 +18,5 @@
 4. Document and highlight any key points and insights you discover.
 
 ## Result
-
-Add SQL file  
-
-[Google Sheets](https://docs.google.com/spreadsheets/d/1yx2Kop1RK8wJ4xWWLMWmvdI6u5OTfKPATgOjkUUraJk/edit?usp=sharing)
+- [Funnels Analysis](https://docs.google.com/spreadsheets/d/1yx2Kop1RK8wJ4xWWLMWmvdI6u5OTfKPATgOjkUUraJk/edit?usp=sharing) in Google Sheets
+- SQL
