@@ -7,12 +7,12 @@
 - Perform hands-on exercises with real data and solve life-like problems typical for product analysts
 
 ## Data Source
-`turing_data_analytics.raw_events`
+BigQuery `turing_data_analytics.raw_events`
 
 ## Task
 Determine how long it takes for a user to make a purchase on the website. Analyze the duration from when users first arrive on the website on any given day to when they make their first purchase on the same day. The final result should display the daily dynamics of this duration.
 
 
 ## Result
-- SQL query (uploaded file)
-- [Data visualization in Tableau Public](https://public.tableau.com/app/profile/marina.korneva/viz/mkorneSpecializationPAGradedTask/Dashboard)
+- [Tableau Dashboard](https://public.tableau.com/app/profile/marina.korneva/viz/mkorneSpecializationPAGradedTask/Dashboard)
+- [SQL query](https://github.com/kornemar/Projects/blob/main/01%20Product%20Analyst/Product%20Analyst.sql)
