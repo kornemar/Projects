@@ -12,7 +12,7 @@ Learn the fundamentals of SQL and its use databases, followed by an exploration 
 
 - ### **Task 1**
 
-Create a detailed **overview of all individual customers**. Copy only the top 200 rows from your query, ordered by total amount (including tax). Some customers have multiple addresses; to avoid duplicate data, select their latest available address by choosing the maximum `AddressId`.
+> Create a detailed **overview of all individual customers**. Copy only the top 200 rows from your query, ordered by total amount (including tax). Some customers have multiple addresses; to avoid duplicate data, select their latest available address by choosing the maximum `AddressId`.
 
 <details>
   <summary>
@@ -115,7 +115,7 @@ LIMIT
 
 - ### **Task 2**
 
-Retrieve data for the **top 200 customers with the highest total amount (including tax) who have not placed an order in the last 365 days**. Note that the database is outdated, so define the current date by finding the latest order date in the orders table.
+> Retrieve data for the **top 200 customers with the highest total amount (including tax) who have not placed an order in the last 365 days**. Note that the database is outdated, so define the current date by finding the latest order date in the orders table.
 
 <details>
   <summary>
@@ -248,7 +248,7 @@ LIMIT
 
 - ### **Task 3**
 
-Create a **new column in the view that marks customers as active or inactive based on whether they have placed an order in the last 365 days**. Copy only the top 500 rows from your query, ordered by `CustomerId` in descending order.
+> Create a **new column in the view that marks customers as active or inactive based on whether they have placed an order in the last 365 days**. Copy only the top 500 rows from your query, ordered by `CustomerId` in descending order.
 
 <details>
   <summary>
@@ -386,7 +386,7 @@ LIMIT
 
 - ### **Task 4**
 
-Extract data on **all active customers from North America**. Only include customers who have either a total order amount of at least 2500 (including tax) or have placed 5 or more orders. In the output, split their address line into two columns. Order the output by country, state, and `date_last_order`.
+> Extract data on **all active customers from North America**. Only include customers who have either a total order amount of at least 2500 (including tax) or have placed 5 or more orders. In the output, split their address line into two columns. Order the output by country, state, and `date_last_order`.
 
 <details>
   <summary>
@@ -539,7 +539,7 @@ ORDER BY
 
 - ### **Task 5**
 
-Create a query to calculate **monthly sales numbers in each country and region**. The query should include the number of orders, customers, and salespersons in each month, along with the total amount earned (including tax). Sales data for all types of customers should be included.
+> Create a query to calculate **monthly sales numbers in each country and region**. The query should include the number of orders, customers, and salespersons in each month, along with the total amount earned (including tax). Sales data for all types of customers should be included.
 
 <details>
   <summary>
@@ -573,7 +573,7 @@ ORDER BY
 
 - ### **Task 6**
 
-Enhance the query with the **cumulative sum of the total amount earned (including tax) per country and region** using a CTE or subquery.
+> Enhance the query with the **cumulative sum of the total amount earned (including tax) per country and region** using a CTE or subquery.
 
 <details>
   <summary>
@@ -624,7 +624,7 @@ ORDER BY
 
 - ### **Task 7**
 
-Add a **‘sales_rank’** column that ranks rows from best to worst for each country based on the total amount earned (including tax) each month.
+> Add a **‘sales_rank’** column that ranks rows from best to worst for each country based on the total amount earned (including tax) each month.
 
 <details>
   <summary>
@@ -679,7 +679,7 @@ ORDER BY
 
 - ### **Task 8**
 
-Add taxes at the country level. Since tax rates can vary within a country based on the province, include a column for ‘**mean_tax_rate**’ to represent the average tax rate in a country. Also, since not all regions have tax data, include **‘perc_provinces_w_tax’** to show the percentage of provinces with available tax rates for each country.
+> Add taxes at the country level. Since tax rates can vary within a country based on the province, include a column for ‘**mean_tax_rate**’ to represent the average tax rate in a country. Also, since not all regions have tax data, include **‘perc_provinces_w_tax’** to show the percentage of provinces with available tax rates for each country.
 
 <details>
   <summary>
