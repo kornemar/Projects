@@ -6,7 +6,7 @@ Learn the fundamentals of SQL and its use databases, followed by an exploration 
 
 ## Data Source
 - BigQuery `adwentureworks_db`
-- [AdventureWorks_2005.pdf](https://drive.google.com/file/d/1-Qsnn3bg0_PYgY5kKJOUDG8xdKLvOLPK/view?usp=sharing)
+- [AdventureWorks_2005_schema.pdf](https://drive.google.com/file/d/1-Qsnn3bg0_PYgY5kKJOUDG8xdKLvOLPK/view?usp=sharing)
 
 ## Tasks with Solutions
 
