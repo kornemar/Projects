@@ -15,4 +15,5 @@ BigQuery `turing_data_analytics.subscriptions`
 Analyze weekly subscription data to determine how many subscribers started their subscriptions in a particular week and how many remained active over the following six weeks. The final result should display weekly retention cohorts, showing retention from week 0 to week 6 for each week in the dataset.
 
 ## Result
-[Cohort Analysis](https://docs.google.com/spreadsheets/d/10wNPVGrrLjut911UMVo3CuD4bLdumWizypyo0nrE4TE/edit?usp=sharing) in Google Sheets
+- [Cohort Analysis](https://docs.google.com/spreadsheets/d/10wNPVGrrLjut911UMVo3CuD4bLdumWizypyo0nrE4TE/edit?usp=sharing) in Google Sheets
+- [SQL](https://github.com/kornemar/Projects/blob/main/08%20Retention%2C%20Cohorts%20%26%20Churn/Cohort%20Analysis.sql)
