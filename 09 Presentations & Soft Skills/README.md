@@ -18,7 +18,6 @@ Understand the different types of communication mediums appropriate for various 
 As a data analyst at AdventureWorks, I was asked to create one dashboard to be used for two presentations (created using PowerPoint) tailored for the Executive Leadership and Finance departments. The objective was to provide insights and communicate them effectively, considering the specific needs of each audience.
 
 ## Result
-- [Data visualization in Tableau](https://public.tableau.com/app/profile/marina.korneva/viz/mkorneCARM2S2GradedTask/M2S21_Executive)
+- [Tableau Dashboard](https://public.tableau.com/app/profile/marina.korneva/viz/mkorneCARM2S2GradedTask/M2S21_Executive)
 - Files with presentations
-- SQL files
 <!-- [Data visualization in Tableau](https://public.tableau.com/app/profile/marina.korneva/viz/mkorneCARM2S2GradedTaskR2/M2S21_Executive) -->
