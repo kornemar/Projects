@@ -19,4 +19,4 @@ BigQuery `turing_data_analytics.raw_events`
 
 ## Result
 - [Funnels Analysis](https://docs.google.com/spreadsheets/d/1yx2Kop1RK8wJ4xWWLMWmvdI6u5OTfKPATgOjkUUraJk/edit?usp=sharing) in Google Sheets
-- SQL
+- [SQL](https://github.com/kornemar/Projects/blob/main/07%20Funnels/Funnels%20Analysis.sql)
