@@ -16,6 +16,6 @@ As a data analyst at AdventureWorks, I was asked to create one dashboard to be u
 
 ## Result
 - [Data visualization in Tableau](https://public.tableau.com/app/profile/marina.korneva/viz/mkorneCARM2S2GradedTask/M2S21_Executive)
-<!-- [Data visualization in Tableau](https://public.tableau.com/app/profile/marina.korneva/viz/mkorneCARM2S2GradedTaskR2/M2S21_Executive) -->
 - Files with presentations
 - SQL files
+<!-- [Data visualization in Tableau](https://public.tableau.com/app/profile/marina.korneva/viz/mkorneCARM2S2GradedTaskR2/M2S21_Executive) -->
