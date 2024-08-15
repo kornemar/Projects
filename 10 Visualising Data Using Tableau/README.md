@@ -8,7 +8,7 @@ Learn how to approach various visualization tasks as a data analyst.
 - BigQuery `adwentureworks_db`
 - [AdventureWorks_2005_schema.pdf](https://drive.google.com/file/d/1-Qsnn3bg0_PYgY5kKJOUDG8xdKLvOLPK/view?usp=sharing)
 - [Google Sheets with Sales Order Data](https://docs.google.com/spreadsheets/d/1wSIv4oMbynUpIM8lgQuJfDa7byhER5gvHjWvH-4skQY/edit?usp=drive_link)
-- CSV files created with SQL queries and connected to the Tableau dashboard as the data source:
+- CSV files created with SQL queries and connected to Tableau as a data source:
     - [AdventureWorks.Customer.csv](https://drive.google.com/file/d/1UdqRdisPSoVL-uJYJONJZvQeZfxRbuw3/view?usp=drive_link)
     - [AdventureWorks.Product_SpecialOffer.csv](https://drive.google.com/file/d/1Ds527DsAd69ESQY5A7xNpzXcbCso78WM/view?usp=drive_link)
 <!-- [AdventureWorks.Product_Cost.csv](https://drive.google.com/file/d/1Rre4pbBrRo6u1C1zW0lBKvMDu_6WRBtm/view?usp=drive_link) -->
