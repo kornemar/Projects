@@ -8,7 +8,7 @@
 
  
 ## Data Source
-`turing_data_analytics.raw_events`
+BigQuery `turing_data_analytics.raw_events`
 
 ## Task
 Using cohort analysis, calculate what revenue you can expect in the future:
@@ -18,6 +18,5 @@ Using cohort analysis, calculate what revenue you can expect in the future:
 3. Calculate **Revenue Prediction by Cohorts**: estimate future revenue by predicting missing data, particularly the revenue expected from later-acquired user cohorts.
 
 ## Result
-
-Add SQL file  
-[Google Sheets](https://docs.google.com/spreadsheets/d/1_ngT6uBGt8Ij-Y600t0SYe-8VSpaXJp6CN7ipINExGo/edit?usp=sharing)
+- [CLV Analysis](https://docs.google.com/spreadsheets/d/1_ngT6uBGt8Ij-Y600t0SYe-8VSpaXJp6CN7ipINExGo/edit?usp=sharing) in Google Sheets
+- [SQL query](https://github.com/kornemar/Projects/blob/main/05%20CLV%20Analysis/CLV%20Analysis.sql)
