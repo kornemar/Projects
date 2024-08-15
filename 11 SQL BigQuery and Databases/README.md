@@ -16,7 +16,7 @@ Learn the fundamentals of SQL and its use databases, followed by an exploration 
 
 <details>
   <summary>
-    Expand Solution 1
+    <h3><b>Expand Solution 1</b></h3>
   </summary>
   
 ```sql
@@ -119,7 +119,7 @@ LIMIT
 
 <details>
   <summary>
-    Expand Solution 2
+    <h3><b>Expand Solution 2</b></h3>
   </summary>
 
 ```sql
@@ -252,7 +252,7 @@ LIMIT
 
 <details>
   <summary>
-    Expand Solution 3
+    <h3><b>Expand Solution 3</b></h3>
   </summary>
 
 ```sql
@@ -390,7 +390,7 @@ LIMIT
 
 <details>
   <summary>
-    Expand Solution 4
+    <h3><b>Expand Solution 4</b></h3>
   </summary>
 
 ```sql
@@ -543,7 +543,7 @@ ORDER BY
 
 <details>
   <summary>
-    Expand Solution 5
+    <h3><b>Expand Solution 5</b></h3>
   </summary>
 
 ```sql
@@ -577,7 +577,7 @@ ORDER BY
 
 <details>
   <summary>
-    Expand Solution 6
+    <h3><b>Expand Solution 6</b></h3>
   </summary>
 
 ```sql
@@ -628,7 +628,7 @@ ORDER BY
 
 <details>
   <summary>
-    Expand Solution 7
+    <h3><b>Expand Solution 7</b></h3>
   </summary>
 
 ```sql
@@ -683,7 +683,7 @@ ORDER BY
 
 <details>
   <summary>
-    Expand Solution 8
+    <h3><b>Expand Solution 8</b></h3>
   </summary>
 
 ```sql
