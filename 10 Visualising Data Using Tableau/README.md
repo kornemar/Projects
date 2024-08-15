@@ -1,5 +1,8 @@
+> Communicating the results of the analysis clearly is essential, and the information must be presented in an easily understandable way. For a data analyst, getting the data right is just the first step – it is often equally (if not more) important to be able to visualize the findings in a well-thought-out and balanced manner.
+
 ## Objectives
-Gain an in-depth understanding of data visualization techniques and develop practical experience using Tableau. Learn how to approach various visualization tasks as a data analyst.
+Gain an in-depth understanding of data visualization techniques and develop practical experience using Tableau.  
+Learn how to approach various visualization tasks as a data analyst.
 
 ## Data Source
 - `AdventureWorks`
