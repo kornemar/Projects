@@ -7,11 +7,11 @@
 - Perform hands-on exercises with real data and solve life-like problems typical for marketing analysts
 
 ## Data Source 
-`turing_data_analytics.raw_events`
+BigQuery `turing_data_analytics.raw_events`
 
 ## Task
 Analyze the overall trends of all marketing campaigns on the e-commerce site. Determine whether users tend to spend more time on the website on certain weekdays and how this behavior varies across different campaigns.
 
 ## Result
-- SQL query (uploaded file)
-- [Data visualization in Tableau Public](https://public.tableau.com/app/profile/marina.korneva/viz/mkorneSpecializationMAGradedTask/KPI) (a 2-page dashboard)
+- [Tableau Dashboard](https://public.tableau.com/app/profile/marina.korneva/viz/mkorneSpecializationMAGradedTask/KPI) (a 2-page dashboard)
+- [SQL query]()
