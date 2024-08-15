@@ -8,16 +8,12 @@
 - Practice RFM analysis using SQL and spreadsheets
 
 ## Data Source
-`turing_data_analytics.rfm`
+BigQuery `turing_data_analytics.rfm`
 
 ## Task
-
 Conduct an RFM (Recency, Frequency, Monetary) analysis using the provided dataset. Present the analyses in a dashboard and highlight key insights regarding which customer group(s) the marketing team should focus on.
 
 ## Result
-
-Add SQL file  
-
-[Google Sheets](https://docs.google.com/spreadsheets/d/18Hy1cowZ8uz9qCDOa-D6CxuW8d-R5G7rP24VR3EFkm8/edit?usp=sharing)
-
-[Data visualization in Tableau Public](https://public.tableau.com/app/profile/marina.korneva/viz/mkorneMATM3S3RFMGradedTask/RFM)
+- [Tableau Dashboard](https://public.tableau.com/app/profile/marina.korneva/viz/mkorneMATM3S3RFMGradedTask/RFM)
+- [Customer Segmentation](https://docs.google.com/spreadsheets/d/18Hy1cowZ8uz9qCDOa-D6CxuW8d-R5G7rP24VR3EFkm8/edit?usp=sharing) in Google Sheets
+- SQL query
