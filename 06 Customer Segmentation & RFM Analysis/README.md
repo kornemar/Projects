@@ -11,9 +11,10 @@
 BigQuery `turing_data_analytics.rfm`
 
 ## Task
-Conduct an RFM (Recency, Frequency, Monetary) analysis using the provided dataset. Present the analyses in a dashboard and highlight key insights regarding which customer group(s) the marketing team should focus on.
+Conduct an RFM (Recency, Frequency, Monetary) analysis using the provided dataset.  
+Present the analyses in a dashboard and highlight key insights regarding which customer group(s) the marketing team should focus on.
 
 ## Result
 - [Tableau Dashboard](https://public.tableau.com/app/profile/marina.korneva/viz/mkorneMATM3S3RFMGradedTask/RFM)
 - [Customer Segmentation](https://docs.google.com/spreadsheets/d/18Hy1cowZ8uz9qCDOa-D6CxuW8d-R5G7rP24VR3EFkm8/edit?usp=sharing) in Google Sheets
-- SQL query
+- [SQL query](https://github.com/kornemar/Projects/blob/main/06%20Customer%20Segmentation%20%26%20RFM%20Analysis/RFM%20Analysis.sql)
