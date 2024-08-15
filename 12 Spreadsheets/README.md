@@ -1,4 +1,4 @@
-> The course focused on tools in Google Sheets and Microsoft Excel. Techniques and skills learned in this module can be easily applied when working with both Microsoft Excel and Google Sheets, covering the majority of functionalities needed by a data analyst.
+> The sprint focused on tools in Google Sheets and Microsoft Excel. Techniques and skills learned in this module can be easily applied when working with both Microsoft Excel and Google Sheets, covering the majority of functionalities needed by a data analyst.
 
 ## Objectives
 Learn the fundamentals of using spreadsheets for data analytics
