@@ -14,4 +14,4 @@ Analyze the overall trends of all marketing campaigns on the e-commerce site. De
 
 ## Result
 - [Tableau Dashboard](https://public.tableau.com/app/profile/marina.korneva/viz/mkorneSpecializationMAGradedTask/KPI) (a 2-page dashboard)
-- [SQL query]()
+- [SQL query](https://github.com/kornemar/Projects/blob/main/02%20Marketing%20Analyst/Marketing%20Analyst.sql)
