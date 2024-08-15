@@ -6,8 +6,8 @@ I am currently completing an intensive Data Analytics program at Turing College,
 
 During my studies, I completed over 15 real-world projects and received feedback from industry experts. This repository contains the key projects I completed during my Data Analytics studies, organized by relevance and difficulty in descending order.
 
-Each project covers different techniques in data analytics. The course consisted of four modules with multiple sprints. Here is an overview of the **curriculum**:
-
+Each project covers different techniques in data analytics. The course consisted of four modules with multiple sprints.  
+Here is an overview of the **curriculum**:
 1. **Introduction to Data Analytics**
     - Structured Approach to Data Analytics
     - Analyst Toolkit: Spreadsheets | SQL and Databases | BigQuery
