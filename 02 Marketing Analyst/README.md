@@ -13,5 +13,5 @@ BigQuery `turing_data_analytics.raw_events`
 Analyze the overall trends of all marketing campaigns on the e-commerce site. Determine whether users tend to spend more time on the website on certain weekdays and how this behavior varies across different campaigns.
 
 ## Result
-- [Tableau Dashboard](https://public.tableau.com/app/profile/marina.korneva/viz/mkorneSpecializationMAGradedTask/KPI) (a 2-page dashboard)
+- [Tableau Dashboard](https://public.tableau.com/app/profile/marina.korneva/viz/mkorneSpecializationMAGradedTask/KPI)
 - [SQL query](https://github.com/kornemar/Projects/blob/main/02%20Marketing%20Analyst/Marketing%20Analyst.sql)
