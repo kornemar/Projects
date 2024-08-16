@@ -7,7 +7,7 @@ Understand the different types of communication mediums appropriate for various 
 ## Data Source
 - BigQuery `adwentureworks_db`
 - [AdventureWorks_2005_schema.pdf](https://drive.google.com/file/d/1-Qsnn3bg0_PYgY5kKJOUDG8xdKLvOLPK/view?usp=sharing)
-- [Google Sheets with Sales Order Data](https://docs.google.com/spreadsheets/d/1wSIv4oMbynUpIM8lgQuJfDa7byhER5gvHjWvH-4skQY/edit?usp=drive_link)
+- [Sales Order Data](https://docs.google.com/spreadsheets/d/1wSIv4oMbynUpIM8lgQuJfDa7byhER5gvHjWvH-4skQY/edit?usp=drive_link) Google Sheets
 - CSV files created with SQL queries and connected to Tableau as a data source:
     - [AdventureWorks.Customer.csv](https://drive.google.com/file/d/1UdqRdisPSoVL-uJYJONJZvQeZfxRbuw3/view?usp=drive_link)
     - [AdventureWorks.Product_SpecialOffer.csv](https://drive.google.com/file/d/1Ds527DsAd69ESQY5A7xNpzXcbCso78WM/view?usp=drive_link)
