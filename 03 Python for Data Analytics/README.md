@@ -14,5 +14,5 @@ Analyze the data using Python and create a notebook that demonstrates your Pytho
 - Use at least three different types of charts in your project
 
 ## Result
-- [Jupyter Notebook](https://github.com/kornemar/Projects/blob/main/03%20Python%20for%20Data%20Analytics/RFM%20Analysis%20Using%20Python.ipynb)
+- [RFM Analysis Using Python](https://github.com/kornemar/Projects/blob/main/03%20Python%20for%20Data%20Analytics/RFM%20Analysis%20Using%20Python.ipynb) in Jupyter Notebook
 - [RFM Analysis Using Python](https://colab.research.google.com/drive/1wO2GiSFxyD7_4Bb-SssPNvd6bi8sJxuY?usp=sharing) in Google Colab
