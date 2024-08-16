@@ -18,7 +18,4 @@ Create a logistic regression model to predict the 10-year risk of coronary heart
 - Evaluate the model using performance metrics
 
 ## Solution
-
-
-
-
+[Logistic Regression Model](https://github.com/kornemar/Projects/blob/main/04%20Linear%20and%20Logistic%20Regression/Logistic%20Regression.xlsb) created in Excel using analysis tools such as Data Analysis, XLMiner, and Solver
