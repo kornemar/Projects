@@ -4,7 +4,7 @@
 Learn the fundamentals of using spreadsheets for data analytics
 
 ## Data Source
-Google Sheets [AdventureWorks](https://docs.google.com/spreadsheets/d/1xDgMCw_PWapZ66JrdzMy940PzeTFxakA_ArDNOukPn4/copy) 
+[AdventureWorks](https://docs.google.com/spreadsheets/d/1xDgMCw_PWapZ66JrdzMy940PzeTFxakA_ArDNOukPn4/copy) Google Sheets 
 
 ## Task
 Populate the 'Overview' sheet with analytical insight using a structured approach to data analysis:
