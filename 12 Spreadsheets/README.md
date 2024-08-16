@@ -16,4 +16,4 @@ Populate the 'Overview' sheet with analytical insight using a structured approac
 6. Top sales reasons
 
 ## Result
-[Sales Trend Analysis](https://github.com/kornemar/Projects/blob/main/12%20Spreadsheets/Sales%20Trend%20Analysis.xlsx)
+[Sales Trend Analysis](https://github.com/kornemar/Projects/blob/main/12%20Spreadsheets/Sales%20Trend%20Analysis.xlsx) created in Excel
