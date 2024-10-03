@@ -1,3 +1,5 @@
+![Header Image](https://imgur.com/a/yUIkyYU)
+
 # Projects
 
 I have recently completed an intensive Data Analytics program at Turing College, where I've developed key skills in data analysis. 
