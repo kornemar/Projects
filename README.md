@@ -1,4 +1,4 @@
-![Header Image](https://imgur.com/a/yUIkyYU)
+![Header Image](https://i.imgur.com/BnKyfkf.png)
 
 # Projects
 
