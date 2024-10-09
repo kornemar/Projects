@@ -6,9 +6,10 @@ I have recently completed an intensive Data Analytics program at Turing College,
 
 > Turing College is an online data career school in Europe offering remote, self-paced learning designed to train students to be company-ready. Through real-world projects, peer collaboration, and mentorship from industry experts, I gained practical experience and enhanced my readiness for the professional world.
 
-This repository contains the key projects I completed during my studies, organized by relevance and difficulty in descending order.
+This repository contains the key projects I completed during my studies, organized by relevance and difficulty in descending order.  
+Each project covers various techniques in data analytics.  
 
-Each project covers various techniques in data analytics. The course consisted of four modules with multiple sprints.  
+The course consisted of four modules with multiple sprints.  
 Here is an overview of the **curriculum**:
 1. **Introduction to Data Analytics**
     - Structured Approach to Data Analytics
